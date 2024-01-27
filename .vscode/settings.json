@@ -16,5 +16,6 @@
         "Selecione",
         "Semana",
         "Suporte"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
