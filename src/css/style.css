@@ -96,7 +96,7 @@ body {
     padding: 20px 40px;
     text-transform: uppercase;
     width: 50%;
-    transition: all .3s ease-in;
+    transition: all 0.3s ease-in;
 }
 
 .btn-plataforma {

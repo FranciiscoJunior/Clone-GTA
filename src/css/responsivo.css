@@ -19,7 +19,7 @@
     }
 
     .home .informacoes .titulo {
-
+        font-size: 40px;
     }
 
     .compre-ja .cartao {
@@ -30,7 +30,6 @@
 @media (max-width: 768px) {
     .compre-ja {
         padding: 30px;
-        background-color: blue;
     }
 
     .compre-ja .cartao {
@@ -51,7 +50,7 @@
         padding: 15px;
         }
 
-        btn-comprar {
+        .btn-comprar {
             width: 100%;
         }
 }

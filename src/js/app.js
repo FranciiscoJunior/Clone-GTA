@@ -46,5 +46,4 @@ botao.addEventListener("click", () => {
         //Passo 4 - Quando o usuário clicar, adicionar a classe ativo na listagem de plataforma
         //dentro do botão para que o conteúdo dele apareça.
     //}*/
-
 });
